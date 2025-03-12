@@ -24,6 +24,6 @@ ciudades_temperaturas = {
 promedio_temperatura = promedio_temperatura(ciudades_temperaturas)
 
 # Imprimo los resultados
-print("Temperaturas Promedio por Ciudad:")
+print("Las temperaturas promedio por ciudad son:")
 for ciudad, promedio in promedio_temperatura.items():
     print(f"{ciudad}: {promedio:.2f}°C")
