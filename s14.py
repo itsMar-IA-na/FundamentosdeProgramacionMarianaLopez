@@ -1,8 +1,8 @@
 # Definir la función
 def calculo_desc(valor_total, valor_desc):
-    # Calcular el valor del descuento
+# Calcular el valor del descuento
     descuento = valor_total * (valor_desc / 100)
-    # Devolver el valor del descuento ya calculado
+# Devolver el valor del descuento ya calculado
     return descuento
 
 # Llamar a la función con el valor de la compra y el porcentaje de descuento
