@@ -23,3 +23,5 @@ for i in range(num_ciudades):
         promedio = sum(temperaturas[i][j]) / num_dias
         print(f"  Semana {j + 1}: {promedio:.2f}°C")
     print()
+
+#Fin
