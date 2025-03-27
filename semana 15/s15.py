@@ -19,3 +19,5 @@ del inf_personal["EDAD"]
 # Imprimir el diccionario final
 for clave, valor in inf_personal.items():
     print(f"{clave}: {valor}")
+
+#Fin
